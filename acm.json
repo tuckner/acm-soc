@@ -83,7 +83,9 @@
         "https://www.tines.com/story-library/1187117/check-mailboxes-for-external-autoforward-rules-and-filters-in-google-workspace",
         "https://redcanary.com/blog/email-forwarding-rules/"
       ],
-      "references": []
+      "references": [
+        "https://redcanary.com/blog/email-forwarding-rules/"
+      ]
     },
     {
       "name": "Bespoke Alerts",
@@ -118,7 +120,9 @@
         "https://www.tines.com/story-library/1178695/request-updates-to-stale-jira-issues",
         "https://venturebeat.com/security/manage-alerts-vulnerabilities/"
       ],
-      "references": []
+      "references": [
+        "https://venturebeat.com/security/manage-alerts-vulnerabilities/"
+      ]
     },
     {
       "name": "Handle Dates",
@@ -184,7 +188,9 @@
         "https://www.tines.com/story-library/87755/triage-new-alerts-in-google-alert-center-with-human-oversight",
         "https://www.tines.com/blog/chatbots-for-security-and-it-teams"
       ],
-      "references": []
+      "references": [
+        "https://www.tines.com/blog/chatbots-for-security-and-it-teams"
+      ]
     },
     {
       "name": "Chat Events",
@@ -202,7 +208,9 @@
         "https://www.tines.com/story-library/87721/triage-slack-help-desk-queries",
         "https://slack.engineering/distributed-security-alerting/"
       ],
-      "references": []
+      "references": [
+        "https://slack.engineering/distributed-security-alerting/"
+      ]
     },
     {
       "name": "IP Blocklist",
@@ -223,7 +231,10 @@
         "https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-admin/policy/use-an-external-dynamic-list-in-policy/external-dynamic-list",
         "https://knowledge.broadcom.com/external/article/178081/how-to-add-a-whitelist-or-blacklist-entr.html"
       ],
-      "references": []
+      "references": [
+        "https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-admin/policy/use-an-external-dynamic-list-in-policy/external-dynamic-list",
+        "https://knowledge.broadcom.com/external/article/178081/how-to-add-a-whitelist-or-blacklist-entr.html"
+      ]
     },
     {
       "name": "Tracking Location",
@@ -242,7 +253,9 @@
         "https://www.tines.com/story-library/87653/create-jira-issues-via-slack",
         "https://en.wikipedia.org/wiki/Single_source_of_truth"
       ],
-      "references": []
+      "references": [
+        "https://en.wikipedia.org/wiki/Single_source_of_truth"
+      ]
     },
     {
       "name": "Cloud Alerts",
@@ -310,7 +323,10 @@
         "https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/tenant-allow-block-list-email-spoof-configure?view=o365-worldwide",
         "https://help.proofpoint.com/Proofpoint_Essentials/Email_Security/Administrator_Topics/090_filtersandsenderlists/Setting_up_sender_lists/How_to_edit_Safe_and_Blocked_Sender_Lists#:~:text=Navigate%20to%20Security%20Settings%20%3E%20Email,Sender%20list%20WILL%20be%20quarantined"
       ],
-      "references": []
+      "references": [
+        "https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/tenant-allow-block-list-email-spoof-configure?view=o365-worldwide",
+        "https://help.proofpoint.com/Proofpoint_Essentials/Email_Security/Administrator_Topics/090_filtersandsenderlists/Setting_up_sender_lists/How_to_edit_Safe_and_Blocked_Sender_Lists#:~:text=Navigate%20to%20Security%20Settings%20%3E%20Email,Sender%20list%20WILL%20be%20quarantined"
+      ]
     },
     {
       "name": "File Hash Blocklist",
@@ -366,7 +382,7 @@
       "name": "Password Invalidation",
       "category": "Response",
       "id": "A5008",
-      "last_edited": "2023-11-26T13:14:00.000Z",
+      "last_edited": "2023-12-02T21:53:00.000Z",
       "description": "Invalidate current password based credentials without disabling a user account. Sometimes known as \u2018forced password change\u2019. Helpful in situations when an account could be compromised, but does not have any identifiable information that it has been utilized maliciously.",
       "services": [],
       "techniques": [
@@ -376,7 +392,9 @@
         "https://www.tines.com/story-library/1139843/invalidate-user-s-password-in-azure-active-directory",
         "https://www.tines.com/blog/breaches-are-inevitable-and-early-detection-is-crucial"
       ],
-      "references": []
+      "references": [
+        "https://www.tines.com/blog/breaches-are-inevitable-and-early-detection-is-crucial"
+      ]
     },
     {
       "name": "IP Analysis",
@@ -436,7 +454,11 @@
         "https://support.atlassian.com/jira-cloud-administration/docs/create-a-custom-field/",
         "https://docs.thehive-project.org/thehive/user-guides/administrators/custom-fields/"
       ],
-      "references": []
+      "references": [
+        "https://developer.servicenow.com/dev.do#!/learn/learning-plans/quebec/new_to_servicenow/app_store_learnv2_buildneedit_quebec_adding_fields_to_a_table",
+        "https://support.atlassian.com/jira-cloud-administration/docs/create-a-custom-field/",
+        "https://docs.thehive-project.org/thehive/user-guides/administrators/custom-fields/"
+      ]
     },
     {
       "name": "Email Alerts",
@@ -530,7 +552,11 @@
         "https://www.oreilly.com/library/view/the-security-data/9781491927748/ch01.html",
         "https://www.tines.com/blog/capability-deep-dive-data-search"
       ],
-      "references": []
+      "references": [
+        "https://www.ibm.com/topics/siem",
+        "https://www.oreilly.com/library/view/the-security-data/9781491927748/ch01.html",
+        "https://www.tines.com/blog/capability-deep-dive-data-search"
+      ]
     },
     {
       "name": "User Assessment",
@@ -569,7 +595,10 @@
         "https://learn.microsoft.com/en-us/security/compass/incident-response-playbook-phishing",
         "https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing"
       ],
-      "references": []
+      "references": [
+        "https://learn.microsoft.com/en-us/security/compass/incident-response-playbook-phishing",
+        "https://gitlab.com/syntax-ir/playbooks/-/tree/main/IRP-Phishing"
+      ]
     },
     {
       "name": "Quality Sampling",
@@ -585,7 +614,9 @@
         "https://www.tines.com/story-library/1176103/analyze-quality-of-tickets-in-servicenow",
         "https://expel.com/blog/how-to-measure-soc-quality/"
       ],
-      "references": []
+      "references": [
+        "https://expel.com/blog/how-to-measure-soc-quality/"
+      ]
     },
     {
       "name": "Workflow Backup",
@@ -732,7 +763,9 @@
         "https://www.tines.com/story-library/1164461/kill-an-active-process-in-crowdstrike",
         "https://www.crowdstrike.com/blog/tech-center/file-remediation-rtr/"
       ],
-      "references": []
+      "references": [
+        "https://www.crowdstrike.com/blog/tech-center/file-remediation-rtr/"
+      ]
     },
     {
       "name": "Related Issues",
